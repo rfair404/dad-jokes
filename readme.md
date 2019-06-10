@@ -108,6 +108,12 @@ Huge if true.
 
 ---
 
+**Q:** Why do database administrators avoid reading magazines?
+
+**A:** Because there is no index.
+
+---
+
 **!false**
 
 It's funny 'cause it's true.
